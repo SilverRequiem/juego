@@ -12,7 +12,7 @@
     min-width: 100vw;
     background-image: linear-gradient(rgba(25, 209, 231, 0.5),
             rgba(243, 17, 224, 0.5)),
-        url(../img/letras.jpg);
+        url(letras.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -158,10 +158,10 @@
 }
 
 .medio-circulo {
-    position: fixed;
-    top: 44vw;
+    position: absolute;
+    top: 1.5vw;
     bottom: 0;
-    left: 93vw;
+    left: 0vw;
     width: 60px;
     height: 48px;
     fill: none;
