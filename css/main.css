@@ -52,7 +52,7 @@
     padding-left: 10px;
     border: 0;
     outline: none;
-    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0);
 }
 
 .form label {
