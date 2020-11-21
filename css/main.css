@@ -118,16 +118,16 @@
     display: grid;
     grid-template-columns: 100px 1fr;
     align-items: center;
-    position: fixed;
-    top: 77.5vh;
+    position: absolute;
+    top: 40vw;
     bottom: 0;
-    left: 180vh;
+    left: 93vw;
 }
 
 .imagen-ayuda {
     grid-area: auto;
     align-self: start;
-    position: fixed;
+    position: absolute;
     box-sizing: border-box;
 }
 
@@ -159,9 +159,9 @@
 
 .medio-circulo {
     position: fixed;
-    top: 85vh;
+    top: 44vw;
     bottom: 0;
-    left: 180vh;
+    left: 93vw;
     width: 60px;
     height: 48px;
     fill: none;
