@@ -12,7 +12,7 @@
     min-width: 100vw;
     background-image: linear-gradient(rgba(25, 209, 231, 0.5),
             rgba(243, 17, 224, 0.5)),
-        url(letras.jpg);
+        url(img/letras.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
