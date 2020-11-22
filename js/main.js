@@ -7,7 +7,7 @@ const nivel = {
   dificil: 1
 };
 
-const nivelActual = nivel.medio;
+const nivelActual = nivel.facil;
 
 let tiempo = nivelActual;
 let puntuacion = 0;
