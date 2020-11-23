@@ -26,8 +26,24 @@ const palabras = [
     'Pedro',
     'Hola',
     'Adios',
-    'saludo',
-    'asno'
+    'Saludo',
+    'Asno',
+    'Cuatro',
+    'Ferrocarril',
+    'Impacto',
+    'Arbol',
+    'Onomatopeya',
+    'Oratyp',
+    'Hiperterrito',
+    'Correo',
+    'Internet',
+    'Servicio',
+    'Enviar',
+    'Equipo',
+    'Navegador',
+    'Visualizador',
+    'Reproductor',
+    'Musica'
 ];
 
 
